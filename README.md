@@ -1,4 +1,4 @@
-# jokenpo
+# jokenpo: Italo Meireles, Luiz Fernando e Francisco Valdinar
 
 A new Flutter application.
 
